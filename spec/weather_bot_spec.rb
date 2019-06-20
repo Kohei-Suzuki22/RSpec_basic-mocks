@@ -85,9 +85,6 @@ RSpec.describe "WeatherBot" do
   ・at_most(:twice)   : ２回以下
   ・at_most(n).times  : n回以下
   
-  
-  
-
 =end 
     
     
